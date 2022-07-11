@@ -1,13 +1,7 @@
-## Running React on Repl.it
+## Wave Portal Smart Contract
 
-[React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
+A toturial from [buildspace](https://buildspace.so/p).
 
-[Vite](https://vitejs.dev/) is a blazing fast frontend build tool that includes features like Hot Module Reloading (HMR), optimized builds, and TypeScript support out of the box.
-
-Using the two in conjunction is one of the fastest ways to build a web app.
-
-### Getting Started
-- Hit run
-- Edit [App.jsx](#src/App.jsx) and watch it live update!
-
-By default, Replit runs the `dev` script, but you can configure it by changing the `run` field in the `.replit` file.
+### The following items are covered in this toturial:
+- Deploy smart contract to the rinkeby testnet by using hardhat and Alchemy/Infura.
+- Storing messages from users on the blockchain
